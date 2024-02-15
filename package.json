@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@herbsjs/suma": "^1.4.0",
+    "easy-math.js": "^1.1.4",
+    "interval-multiply": "^1.0.0",
+    "music": "^0.0.4"
+  }
+}
